@@ -16,3 +16,8 @@
         "img5 img5 img8 img8";
     gap: .9em;
 }
+.gallery__picture {
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+}
