@@ -36,3 +36,34 @@
     content: "";
     transform: scale(1) rotate(0);
 }
+.gallery__picture--g1 {
+    grid-area: img1;
+}
+
+.gallery__picture--g2 {
+    grid-area: img2;
+}
+
+.gallery__picture--g3 {
+    grid-area: img3;
+}
+
+.gallery__picture--g4 {
+    grid-area: img4;
+}
+
+.gallery__picture--g5 {
+    grid-area: img5;
+}
+
+.gallery__picture--g6 {
+    grid-area: img6;
+}
+
+.gallery__picture--g7 {
+    grid-area: img7;
+}
+
+.gallery__picture--g8 {
+    grid-area: img8;
+}
